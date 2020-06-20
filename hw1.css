@@ -1,0 +1,46 @@
+header{
+	background-color: rgb(178,178,178);
+}
+
+h1{
+	text-align: center;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+
+h2{
+	color: rgb(7, 4, 122);
+	font-size: 150%;
+	font-family: Time New Roman;
+	text-transform: uppercase;
+}
+
+nav a{
+	background-color: rgb(197,197,197);
+	color: #000000;
+}
+
+a{
+	background-color: rgb(159,159,159);
+	color: #000000;
+}
+
+
+section{
+	background-color: rgb(127,127,127); 
+}
+
+
+img{
+	display: none; /* hidden picture */
+}
+
+
+
+
+
+
+
+
+
+
